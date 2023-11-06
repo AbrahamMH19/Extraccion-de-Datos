@@ -1,0 +1,240 @@
+,continent,independence_year,life_expectancy
+0,North America,,78.4
+1,Asia,1919.0,45.9
+2,Africa,1975.0,38.3
+3,North America,,76.1
+4,Europe,1912.0,71.6
+5,Europe,1278.0,83.5
+6,North America,,74.7
+7,Asia,1971.0,74.1
+8,South America,1816.0,75.1
+9,Asia,1991.0,66.4
+10,Oceania,,75.1
+11,Antarctica,,
+12,Antarctica,,
+13,North America,1981.0,70.5
+14,Oceania,1901.0,79.8
+15,Europe,1918.0,77.7
+16,Asia,1991.0,62.9
+17,Africa,1962.0,46.2
+18,Europe,1830.0,77.8
+19,Africa,1960.0,50.2
+20,Africa,1960.0,46.7
+21,Asia,1971.0,60.2
+22,Europe,1908.0,70.9
+23,Asia,1971.0,73.0
+24,North America,1973.0,71.1
+25,Europe,1992.0,71.5
+26,Europe,1991.0,68.0
+27,North America,1981.0,70.9
+28,North America,,76.9
+29,South America,1825.0,63.7
+30,South America,1822.0,62.9
+31,North America,1966.0,73.0
+32,Asia,1984.0,73.6
+33,Asia,1910.0,52.4
+34,Antarctica,,
+35,Africa,1966.0,39.3
+36,Africa,1960.0,44.0
+37,North America,1867.0,79.4
+38,Oceania,,
+39,Europe,1499.0,79.6
+40,South America,1810.0,75.7
+41,Asia,-1523.0,71.4
+42,Africa,1960.0,45.2
+43,Africa,1960.0,54.8
+44,Africa,1960.0,48.8
+45,Africa,1960.0,47.4
+46,Oceania,,71.1
+47,South America,1810.0,70.3
+48,Africa,1975.0,60.0
+49,Africa,1975.0,68.9
+50,North America,1821.0,75.8
+51,North America,1902.0,76.2
+52,Oceania,,
+53,North America,,78.9
+54,Asia,1960.0,76.7
+55,Europe,1993.0,74.5
+56,Europe,1955.0,77.4
+57,Africa,1977.0,50.8
+58,North America,1978.0,73.4
+59,Europe,800.0,76.5
+60,North America,1844.0,73.2
+61,Africa,1962.0,69.7
+62,South America,1822.0,71.1
+63,Africa,1922.0,63.3
+64,Africa,1993.0,55.8
+65,Africa,,49.8
+66,Europe,1492.0,78.8
+67,Europe,1991.0,69.5
+68,Africa,-1000.0,45.2
+69,Europe,1917.0,77.4
+70,Oceania,1970.0,67.9
+71,South America,,
+72,Europe,843.0,78.8
+73,Europe,,78.4
+74,Oceania,1990.0,68.6
+75,Africa,1960.0,50.1
+76,Europe,1066.0,77.7
+77,Asia,1991.0,64.5
+78,Africa,1957.0,57.4
+79,Europe,,79.0
+80,Africa,1958.0,45.6
+81,North America,,77.0
+82,Africa,1965.0,53.2
+83,Africa,1974.0,49.0
+84,Africa,1968.0,53.6
+85,Europe,1830.0,78.4
+86,North America,1974.0,64.5
+87,North America,,68.1
+88,North America,1821.0,66.2
+89,South America,,76.1
+90,Oceania,,77.8
+91,South America,1966.0,64.0
+92,Asia,,79.5
+93,Antarctica,,
+94,North America,1838.0,69.9
+95,Europe,1991.0,73.7
+96,North America,1804.0,49.2
+97,Europe,1918.0,71.4
+98,Asia,1945.0,68.0
+99,Asia,1947.0,62.5
+100,Africa,,
+101,Europe,1921.0,76.8
+102,Asia,1906.0,69.7
+103,Asia,1932.0,66.5
+104,Europe,1944.0,79.4
+105,Asia,1948.0,78.6
+106,Europe,1861.0,79.0
+107,North America,1962.0,75.2
+108,Asia,1946.0,77.4
+109,Asia,-660.0,80.7
+110,Asia,1991.0,63.2
+111,Africa,1963.0,48.0
+112,Asia,1991.0,63.4
+113,Asia,1953.0,56.5
+114,Oceania,1979.0,59.8
+115,North America,1983.0,70.7
+116,Asia,1948.0,74.4
+117,Asia,1961.0,76.1
+118,Asia,1953.0,53.1
+119,Asia,1941.0,71.3
+120,Africa,1847.0,51.0
+121,Africa,1951.0,75.5
+122,North America,1979.0,72.3
+123,Europe,1806.0,78.8
+124,Asia,1948.0,71.8
+125,Africa,1966.0,50.8
+126,Europe,1991.0,69.1
+127,Europe,1867.0,77.1
+128,Europe,1991.0,68.4
+129,Asia,,81.6
+130,Africa,1956.0,69.1
+131,Europe,1861.0,78.8
+132,Europe,1991.0,64.5
+133,Africa,1960.0,55.0
+134,Asia,1965.0,62.2
+135,North America,1810.0,71.5
+136,Oceania,1990.0,65.5
+137,Europe,1991.0,73.8
+138,Africa,1960.0,46.7
+139,Europe,1964.0,77.9
+140,Asia,1948.0,54.9
+141,Asia,1921.0,67.3
+142,Oceania,,75.5
+143,Africa,1975.0,37.5
+144,Africa,1960.0,50.8
+145,North America,,78.0
+146,North America,,78.3
+147,Africa,1968.0,71.0
+148,Africa,1964.0,37.6
+149,Asia,1957.0,70.8
+150,Africa,,59.5
+151,Africa,1990.0,42.5
+152,Oceania,,72.8
+153,Africa,1960.0,41.3
+154,Oceania,,
+155,Africa,1960.0,51.6
+156,North America,1838.0,68.7
+157,Oceania,,
+158,Europe,1581.0,78.3
+159,Europe,1905.0,78.7
+160,Asia,1769.0,57.8
+161,Oceania,1968.0,60.8
+162,Oceania,1907.0,77.8
+163,Asia,1951.0,71.8
+164,Asia,1947.0,61.1
+165,North America,1903.0,75.5
+166,Oceania,,
+167,South America,1821.0,70.0
+168,Asia,1946.0,67.5
+169,Oceania,1994.0,68.6
+170,Oceania,1975.0,63.1
+171,Europe,1918.0,73.2
+172,North America,,75.6
+173,Asia,1948.0,70.7
+174,Europe,1143.0,75.8
+175,South America,1811.0,73.7
+176,Asia,,71.4
+177,Oceania,,74.8
+178,Asia,1971.0,72.4
+179,Africa,,72.7
+180,Europe,1878.0,69.9
+181,Europe,1991.0,67.2
+182,Africa,1962.0,39.3
+183,Asia,1932.0,67.8
+184,Africa,1956.0,56.6
+185,Africa,1960.0,62.2
+186,Asia,1965.0,80.1
+187,Antarctica,,
+188,Africa,,76.8
+189,Europe,,
+190,Oceania,1978.0,71.3
+191,Africa,1961.0,45.3
+192,North America,1841.0,69.7
+193,Europe,885.0,81.1
+194,Africa,1960.0,46.2
+195,North America,,77.6
+196,Africa,1975.0,65.3
+197,South America,1975.0,71.4
+198,Europe,1993.0,73.7
+199,Europe,1991.0,74.9
+200,Europe,836.0,79.6
+201,Africa,1968.0,40.4
+202,Africa,1976.0,70.4
+203,Asia,1941.0,68.5
+204,North America,,73.3
+205,Africa,1960.0,50.5
+206,Africa,1960.0,54.7
+207,Asia,1350.0,68.6
+208,Asia,1991.0,64.1
+209,Oceania,,
+210,Asia,1991.0,60.9
+211,Asia,,46.0
+212,Oceania,1970.0,67.9
+213,North America,1962.0,68.0
+214,Africa,1956.0,73.7
+215,Asia,1923.0,71.0
+216,Oceania,1978.0,66.3
+217,Asia,1945.0,76.4
+218,Africa,1961.0,52.3
+219,Africa,1962.0,42.9
+220,Europe,1991.0,66.0
+221,Oceania,,
+222,South America,1828.0,75.2
+223,North America,1776.0,77.1
+224,Asia,1991.0,63.7
+225,Europe,1929.0,
+226,North America,1979.0,72.3
+227,South America,1811.0,73.1
+228,North America,,75.4
+229,North America,,78.1
+230,Asia,1945.0,69.3
+231,Oceania,1980.0,60.6
+232,Oceania,,
+233,Oceania,1962.0,69.2
+234,Asia,1918.0,59.8
+235,Europe,1918.0,72.4
+236,Africa,1910.0,51.1
+237,Africa,1964.0,37.2
+238,Africa,1980.0,37.8
